@@ -61,11 +61,15 @@ This policy statement should be read alongside our organisational policies and p
 ## Contact details
 
 ### Deputy child protection lead 
+
 Name(s): 
+
 Phone/email:
 
 ### Senior lead for safeguarding and child protection
+
 Name:        Toby Batch
+
 Phone/email:    07968505897 / tobias@neontribe.co.uk
 
 **NSPCC Helpline 0808 800 5000**
