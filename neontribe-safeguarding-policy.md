@@ -1,6 +1,6 @@
-#Neontribe Safeguarding Policy
+# Neontribe Safeguarding Policy
 
-##The purpose and scope of this policy statement
+## The purpose and scope of this policy statement
 
 Neontribe Ltd. works with children and families as part of its activities. These include: WHAT DO WE DO?. The purpose of this policy statement is:
 
