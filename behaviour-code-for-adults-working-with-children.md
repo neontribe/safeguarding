@@ -74,4 +74,4 @@ You should always follow this code of behavior and never rely on your reputation
 
 If you have behaved inappropriately you will be subject to our disciplinary procedures. Depending on the seriousness of the situation, you may be asked to leave Neontribe Ltd. We may also make a referral to statutory agencies such as the police and/or the local authority child protection services.
 
-If you become aware of any breaches of this code, you must report them to VOLUNTEER NEEDED. If necessaryyou should follow the whistle-blowing procedure andchild protection/safeguarding procedures. 
+If you become aware of any breaches of this code, you must report them to VOLUNTEER NEEDED. If necessary you should follow the whistle-blowing procedure and child protection/safeguarding procedures. 
