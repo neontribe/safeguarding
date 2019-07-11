@@ -68,9 +68,9 @@ Phone/email:
 Name:        Toby Batch
 Phone/email:    07968505897 / tobias@neontribe.co.uk
 
-** NSPCC Helpline 0808 800 5000 **
+**NSPCC Helpline 0808 800 5000**
 
-** Norfolk County Council Child Protection Helpline 0344 800 8020 **
+**Norfolk County Council Child Protection Helpline 0344 800 8020**
 
 We are committed to reviewing our policy and good practice annually.
 This policy was last reviewed on: 11th July 2019
