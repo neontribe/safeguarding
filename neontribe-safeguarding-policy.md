@@ -9,7 +9,7 @@ Neontribe Ltd. works with children and families as part of its activities. These
 
 This policy statement applies to anyone working on behalf of Neontribe Ltd., including senior managers and the directors, paid staff, volunteers, sessional workers, agency staff and students.
 
-##Legal framework
+## Legal framework
 
 This policy has been drawn up on the basis of legislation, policy and guidance that seeks to protect children in England. A summary of the key legislation and guidance is available from nspcc.org.uk/childprotection.
 
