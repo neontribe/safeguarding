@@ -1,6 +1,6 @@
 # Safeguarding Children and Young People Policy Statement
 
-## Why do we have a Safeguarding Policy Statement
+## Why do we have a Safeguarding Policy Statement?
 
 Neontribe works with children and families as part of its activities. This includes running learning activities that introduce people to coding and other work we do; creating software that children and young people may use; hosting work experience placements and carrying out user research.
 
