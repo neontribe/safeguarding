@@ -16,7 +16,7 @@ This policy has been drawn up on the basis of legislation, policy and guidance t
 ## We believe that:
 
  - children and young people should never experience abuse, neglect or harm of any kind
- - we have a responsibility to promote the welfare of all children and young people, to keep them safe and to run our qctivities and create our products in a way that protects them.
+ - we have a responsibility to promote the welfare of all children and young people, to keep them safe and to run our activities and create our products in a way that protects them.
 
 ## We recognise that:
 
@@ -42,9 +42,9 @@ This policy has been drawn up on the basis of legislation, policy and guidance t
 
 This policy statement should be read alongside our organisational policies and procedures, including:
 
- - Safeguarding Children and Young People - Neontribe Reporting Procedures (which includes recognising, responding and reporting concerns and dealing with allegations)
+ - Neontribe Reporting Procedures for Safeguarding Children and Young People (which includes recognising, responding and reporting concerns and dealing with allegations)
  - Safeguarding Activity Procedures (including Code of Conduct) for an individual activity (or our activity planning template)
- - Safeguarding Children and Young People or Adults at Rosk - Neontribe Safer Recruitment Procedures
+ - Safeguarding Children and Young People or Adults at Risk - Neontribe Safer Recruitment Procedures
  - Staff Handbook (which includes Health and Safety, Equality and Diversity and Bullying and Harrassment policies)
 
  ## Contact Details 
