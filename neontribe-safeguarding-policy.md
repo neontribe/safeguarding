@@ -1,70 +1,55 @@
-# Neontribe Safeguarding Policy
+# Safeguarding Children and Young People Policy Statement
 
-## The purpose and scope of this policy statement
+## Why do we have a Safeguarding Policy Statement?
 
-Neontribe Ltd. works with children and families as part of its activities. These include: WHAT DO WE DO?. The purpose of this policy statement is:
+Neontribe works with children and families as part of its activities. This includes running learning activities that introduce people to coding and other work we do; creating software that children and young people may use; hosting work experience placements and carrying out user research.
 
- - to protect children and young people who receive Neontribe Ltd.’s services. This includes the children of adults who use our services
- - to provide parents, staff and volunteers with the overarching principles that guide our approach to child protection.
+### The policy statement is designed:
 
-This policy statement applies to anyone working on behalf of Neontribe Ltd., including senior managers and the directors, paid staff, volunteers, sessional workers, agency staff and students.
+ - to protect children and young people who connect with Neontribe either directly or because the adults that care for them are connecting with our activities or software
+ - to to make sure parents, staff and volunteers and the public understand the principles that guide our approach to safeguarding and child protection.
 
-## Legal framework
+Everyone involved in Neontribe must be committed to upholding the values in described in this policy statement. It applies to anyone working on behalf of Neontribe Ltd., including directors, paid staff, volunteers, sessional workers, agency staff and students.
 
 This policy has been drawn up on the basis of legislation, policy and guidance that seeks to protect children in England. A summary of the key legislation and guidance is available from nspcc.org.uk/childprotection.
 
-### We believe that:
+## We believe that:
 
- - children and young people should never experience abuse of any kind
- - we have a responsibility to promote the welfare of all children and young people, to keep them safe and to practise in a way that protects them.
+ - children and young people should never experience abuse, neglect or harm of any kind
+ - we have a responsibility to promote the welfare of all children and young people, to keep them safe and to run our qctivities and create our products in a way that protects them.
 
-### We recognise that:
+## We recognise that:
 
- - the welfare of the child is paramount
+ - the welfare of the child is more important than anything else
  - all children, regardless of age, disability, gender reassignment, race, religion or belief, sex, or sexual orientation have a right to equal protection from all types of harm or abuse
- - some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues
- - working in partnership with children, young people, their parents, carers and other agencies is essential in promoting young people’s welfare. 
+ - some children are more vulnerable than others as a result of their experiences and needs
+ - we must work in partnership with children, young people, their parents, carers and other agencies to promote children and young people's welfare. 
 
-### We will seek to keep children and young people safe by:
+## We will work to keep children and young people safer by:
 
  - valuing, listening to and respecting them
- - appointing a nominated child protection/safeguarding lead, a deputy child protection/safeguarding lead and a lead director for safeguarding
- - developing child protection and safeguarding policies and procedures which reflect best practice
- - using our safeguarding procedures to share concerns and relevant information with agencies who need to know, and involving children, young people, parents, families and carers appropriately
- - creating and maintaining an anti-bullying environment and ensuring that we have a policy and procedure to help us deal effectively with any bullying that does arise
- - developing and implementing an effective online safety policy and related procedures
- - sharing information about child protection and safeguarding best practice with children, their families, staff and volunteers via leaflets, posters, group work and one-to-one discussions
- - recruiting staff and volunteers safely, ensuring all necessary checks are made
- - providing effective management for staff and volunteers through supervision, support, training and quality assurance measures
- - implementing a code of conduct for staff and volunteers
- - using our procedures to manage any allegations against staff and volunteers appropriately
- - ensuring that we have effective complaints and whistleblowing measures in place
- - ensuring that we provide a safe physical environment for our children, young people, staff and volunteers, by applying health and safety measures in accordance with the law and regulatory guidance
- - recording and storing information professionally and securely.
+ - appointing a Senior lead for safeguarding (who will be a company director) and a deputy lead for safeguarding (who will be a company director or member of staff)
+ - designing proportionate and appropriate safeguarding procedures to suit the level of engagement with children and young people in our various activities and products 
+ - having clear procedures for recognising, responding to and reporting disclosures, allegations or concerns about or raised by children and young people
+ - delivering our safeguarding responsibilities alongside work focused on preventing bullying and harrassment and promoting equality and diversity, using codes of conduct and other tools
+ - delivering our safeguarding responsibilties alongside wider work on health and safety ensuring a safe physical enviroment
+ - understanding safer recruitment processes, and ensuring that for staff and volunteers who have teaching or supervisory responsibilities for children and young people the appropriate checks and training are in place
+  - recording and storing information professionally and securely.
+  - reviewing this policy statement and related policies and procedures annually to ensure they are fit for purpose
+
 
 ### Related policies and procedures
 
 This policy statement should be read alongside our organisational policies and procedures, including:
 
- - Procedures for responding to concerns about a child or young person’s wellbeing
- - Dealing with allegations of abuse against a child or young person
- - Role of the designated safeguarding officer
- - Managing allegations against staff and volunteers •Safer recruitment policy and procedures•
- - Adult to child supervision ratios
- - Code of conduct for staff and volunteers
- - Anti-bullying policy and procedures
- - Online safety policy and procedures for responding to concerns about online abuse
- - Photography and image sharing guidance
- - Child protection records retention and storage policy
- - Whistleblowing policy
+ - Safeguarding Children and Young People - Neontribe Reporting Procedures (which includes recognising, responding and reporting concerns and dealing with allegations)
+ - Safeguarding Activity Procedures (including Code of Conduct) for an individual activity (or our activity planning template)
+ - Safeguarding Children and Young People or Adults at Rosk - Neontribe Safer Recruitment Procedures
+ - Staff Handbook (which includes Health and Safety, Equality and Diversity and Bullying and Harrassment policies)
 
-## Contact details
+ ## Contact Details 
 
-### Deputy child protection lead 
-
-Name(s): 
-
-Phone/email:
+ To discuss any safeguarding issues with us please contact our
 
 ### Senior lead for safeguarding and child protection
 
@@ -72,12 +57,19 @@ Name:        Toby Batch
 
 Phone/email:    07968505897 / tobias@neontribe.co.uk
 
-**NSPCC Helpline 0808 800 5000**
+If you have any issues with our Senior lead, please contact either the safeguarding and child protection lead or deputy for a specific project or our overall deputy safeguarding and child protection lead.
 
-**Norfolk County Council Child Protection Helpline 0344 800 8020**
+### Deputy lead for safeguarding and child protection 
 
-We are committed to reviewing our policy and good practice annually.
-This policy was last reviewed on: 11th July 2019
+Name(s): 
+
+Phone/email:
+
+If you do not find our responses helpful and need to seek other support, please contact:
+NSPCC Helpline 0808 800 5000
+Norfolk County Council Child Protection Helpline 0344 800 8020
+
+This policy was last reviewed on: 11th July 2019 (new date to be added once code review of all elements complete)
 
 
 Signed:    ....................................................................................
