@@ -67,9 +67,9 @@ If you have any issues with our Senior lead, please contact either the safeguard
 
 ### Deputy lead for safeguarding and child protection 
 
-Name(s): 
+Name(s): Ed Perkins
 
-Phone/email:
+Phone/email: 07801732952 / ed@neontribe.co.uk
 
 If you do not find our responses helpful and need to seek other support, please contact:
 NSPCC Helpline 0808 800 5000
