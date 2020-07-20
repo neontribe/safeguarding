@@ -2,7 +2,7 @@
 
 ## Quick links
 
- * [Download printable incident form](documents/Neontribe_safeguarding_incident_form.pdf)
+ * [Download printable incident form (PDF)](documents/Neontribe_safeguarding_incident_form.pdf)
  * [Download incident form in open/libre office (ODT) format](documents/Neontribe_safeguarding_incident_form.odt)
  * [Download incident form in Microsoft word (DOCX) format](documents/Neontribe_safeguarding_incident_form.docx)
 
