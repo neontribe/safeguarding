@@ -67,7 +67,6 @@ Phone/email:
 
 If you do not find our responses helpful and need to seek other support, please contact:
 NSPCC Helpline 0808 800 5000
-Norfolk County Council Child Protection Helpline 0344 800 8020
 
 This policy was last reviewed on: 11th July 2019 (new date to be added once code review of all elements complete)
 
